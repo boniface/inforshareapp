@@ -15,6 +15,4 @@ public class API_Endpoints {
     final String STORAGE=BASE+"/storage";             //controllers.storage.StorageRouter
     final String EVENTS=BASE+"/events";              //controllers.syslog.SystemLogRouter
     final String LOGIN=BASE+"/login";               //controllers.login.LoginRouter
-
-
 }
